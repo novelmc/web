@@ -109,7 +109,7 @@ Developers are responsible for programming and maintaining custom, and non-custo
 <hr style="margin-top: 3.5rem;">
 
 ### Senior Mods
-Senior Mods are given the same permissions as Mods. They are responsible for issuing longer punishments, and have access to `/unban` for non-permeant punishments. Senior Mods are also given moderation abilities on the [Discord](../docs/#discord) server.
+Senior Mods are given the same permissions as Mods. They are responsible for issuing longer punishments, and have access to `/unban` for non-permanent punishments. Senior Mods are also given moderation abilities on the [Discord](../docs/#discord) server.
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
