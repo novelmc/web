@@ -18,7 +18,7 @@ We appoint members to our team to make sure everyone's doing the right thing. Ev
 <hr style="margin-top: 3.5rem;">
 
 ### Executives
-Executives are in charge of all lower positions; they have the ability to remove and appoint staff members, and manage permeant punishments. You probably won't see these staff members in-game often because they also are responsible for the Discord server, and community advertising.
+Executives are in charge of all lower positions; they have the ability to remove and appoint staff members, and manage permanent punishments. You probably won't see these staff members in-game often because they also are responsible for the Discord server, and community advertising.
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
